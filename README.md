@@ -3,4 +3,4 @@ A personal Java practice repository containing daily exercises, DSA fundamentals
 
 AUTHOR - Simran Singh
 
-B.Tech CSE student
+B.Tech CSE Student
